@@ -1,0 +1,48 @@
+const Courses =[{
+    id:"1",
+    title:"Web Development",
+    description:"web development is a good prodect making mechanism and it is used to dedect the errors",
+    image:require("../../assets/webdevlopment.jpg"),
+    course1:"HTML",
+    course2:"CSS",
+    Price:5000,
+},
+{
+    id:"2",
+    title:"Graphic designing",
+    description:"Graphic designing is a good prodect making mechanism and it is used to dedect the errors",
+    image:require("../../assets/graphicdesign.jpg"),
+    course1:"Photoshop",
+    course2:"Figma",
+    Price:3000,
+},
+{
+    id:"3",
+    title:"Coding fundamentals",
+    description:"Coding fundamentals is a good prodect making mechanism and it is used to dedect the errors",
+    image:require("../../assets/webdevlopment.jpg"),
+    course1:"c",
+    course2:"JAVA",
+    Price:8000,
+},
+{
+    id:"4",
+    title:"Ethical Hacking",
+    description:"Ethical Hacking is a good prodect making mechanism and it is used to dedect the errors",
+    image:require("../../assets/ethicalhaacking.jpg"),
+    course1:"Testing",
+    course2:"Exploitation",
+    Price:6000,
+},
+{
+    id:"5",
+    title:"Web Development",
+    description:"web development is a good prodect making mechanism and it is used to dedect the errors",
+    image:require("../../assets/webdevlopment.jpg"),
+    course1:"HTML",
+    course2:"CSS",
+    Price:4000,
+},
+
+]
+export default Courses
